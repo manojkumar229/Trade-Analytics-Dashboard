@@ -36,3 +36,20 @@ Backtest a trading strategy (ORB) on intraday stock data and analyze its perform
 ### 🧰 Tools Used
 - Python (pandas, NumPy)
 - Power BI (DAX, calculated columns, visualizations)
+
+---
+## 🧑‍🎓 Author
+
+**Manoj Kumar Desu**  
+📍 Hyderabad, India  
+📧 [manojkumardesu2003@outlook.com](mailto:manojkumardesu2003@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/manoj-kumar-desu)  
+🔗 [GitHub](https://github.com/manojkumar229)
+
+---
+
+## 📄 License
+
+This project is submitted as part of an internship evaluation and is intended for educational use only.
+
+---
